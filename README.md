@@ -3,12 +3,10 @@
 
 ## Tabla de Contenidos
 - [Descripción y contexto](#descripción-y-contexto)
-- [Guía de usuario](#guía-de-usuario)
-- [Guía de instalación](#guía-de-instalación)
 - [Dependecias](#dependencias)
 - [Autor/es](#autores)
 - [Información adicional](#información-adicional)
-- [Licencia](#licencia)
+
 
 ## Descripción y contexto
 
@@ -68,25 +66,16 @@ _Creando un aplicacion donde se hace uso de la libreria retrofit2 para el consum
   implementation "androidx.recyclerview:recyclerview:1.2.1"
 ```
 
-<h3 align="center" >Implementaciones</h3>
-   
-   - Google Drive :
-```
-https://drive.google.com/file/d/18A8mvgAB46vo3PKF6O4x0GKIzXjI_2ov/view?usp=sharing
-```
 ## Autor/es
 
-* **Eduardo Antonio Rugamas Gonzalez** - *Desarrollador Android* - *Github* - *Email juaneduardo021299@hotmail.com* - [Eduar Rugamas](https://github.com/EduarRugamas)
+* **Eduardo Rugamas** - *Desarrollador Android* - *Github* - *Email juaneduardo021299@hotmail.com* - [Eduar Rugamas](https://github.com/EduarRugamas)
 
 ## Información adicional
 
-<h3 align="center" >Links de mockups y tablero de actividades </h3>
+<h3 align="center" >Links de mockups</h3>
 
 - link de Mockups creados en Figma
 ```
 https://www.figma.com/file/zqakiJbRMs4sYdJJx1vRBg/App-Dentista?node-id=0%3A1
 ```
-- Link de tablero en Notion
-```
-https://www.notion.so/Denti-App-559a18b20be146f69b2306c61f741053
-```
+
