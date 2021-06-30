@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1068388075769",
+    "project_id": "android-articulos-locales",
+    "storage_bucket": "android-articulos-locales.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068388075769:android:e6010e0c0a89046d4d7a28",
+        "android_client_info": {
+          "package_name": "com.thedevexperto.test_android_challenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068388075769-ptdhb5b9ftppsvtiaudcp7rsmcgvq7ke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCq-JaBF6jLGy_BqAdqw9gUy3iGx7lCiIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068388075769-ptdhb5b9ftppsvtiaudcp7rsmcgvq7ke.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

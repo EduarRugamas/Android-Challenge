@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Test-Android-Challenge</string>
+
+    <string name="articulos_android">Articulos Sobre Android</string>
+    <string name="articulos_creados">Articulos Creados</string>
+    <string name="btn_ver_mas">Ver Más</string>
+
+    <string name="Titulo">Titulo</string>
+    <string name="Contenido">Contenido</string>
+    <string name="Author">Autor</string>
+    <string name="Fecha">Fecha Publicación</string>
+    <string name="imagen">Fotografia</string>
+
+    <string name="fotos">Tomar Fotografia</string>
+    <string name="Cancelar">Cancelar</string>
+    <string name="Guardar_articulo">Guardar Articulo</string>
+    <string name="agregar_articulo">Agregar Articulo</string>
+    <string name="ir_a_sitio_web">Ir a Sitio Web</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="editar">Editar</string>
+    <string name="traducir_a_ingles">Traducir a Ingles</string>
+    <string name="traducir_a_spanish">Traducir a español</string>
+
+
+</resources>
