@@ -82,8 +82,9 @@ _la segunda funcionalidad del proyecto era conectar la aplicacion a una base de 
 ```
 https://www.figma.com/file/SQbpRj7dUCvgsYq1TME3WI/android-challenge?node-id=0%3A1
 ```
+
 <h3 align="center">Link Video Youtube</h3>
 ```
-
+https://youtu.be/JX2S1TsvLjk
 ```
 
