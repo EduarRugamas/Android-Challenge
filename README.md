@@ -76,6 +76,6 @@ _Creando un aplicacion donde se hace uso de la libreria retrofit2 para el consum
 
 - link de Mockups creados en Figma
 ```
-https://www.figma.com/file/zqakiJbRMs4sYdJJx1vRBg/App-Dentista?node-id=0%3A1
+https://www.figma.com/file/SQbpRj7dUCvgsYq1TME3WI/android-challenge?node-id=0%3A1
 ```
 
