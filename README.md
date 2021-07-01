@@ -11,6 +11,12 @@
 ## Descripción y contexto
 
 _Creando un aplicacion donde se hace uso de la libreria retrofit2 para el consumo de API de articulos y uso de Base de datos firebase para la creacion de articulos locales_
+_
+El proyecto esta pensado para consumir un api con la libreria retrofit2 obteniendo una data de articulos sobre android de manera que se muestre el titulo del
+articulo de android, su contenido, una imagen de referencia, el autor que publico dicho articulo y la fecha de publicacion de este dicho articulo.
+
+la segunda funcionalidad del proyecto era conectar la aplicacion a una base de datos y poder alojar dentro de ella, informacion referente a un articulo creado por el usuario donde se solicitaba un titulo, un contenido, un autor, fecha de publicacion y una imagen de manera opcional de esta manera poder obtener todos estos datos guardados y poder realizar con esta informacion, poder editar dicho articulo y poder eliminar dicho articulo
+_
 <h3 align="center">Funcionalidades</h3>
 
 - Consumo de API con Retrofit
@@ -77,5 +83,9 @@ _Creando un aplicacion donde se hace uso de la libreria retrofit2 para el consum
 - link de Mockups creados en Figma
 ```
 https://www.figma.com/file/SQbpRj7dUCvgsYq1TME3WI/android-challenge?node-id=0%3A1
+```
+<h3 align="center">Link Video Youtube</h3>
+```
+
 ```
 
